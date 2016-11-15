@@ -2,7 +2,7 @@
 ## Jupyter Notebooks for Data Science
 A collections of Jupyter Notebooks for Data Science.
 
-### Index ###
+### Talbe of Contents ###
 * [python-data](./python-data)
 * [numpy](./numpy)
 * [statistical-inference-scipy](./scipy)
