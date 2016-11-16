@@ -30,3 +30,5 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) |
 |[AUC-ROC-Breast-Cancer](./AUC-ROC-Breast-Cancer.ipynb)|AUC-ROC (Breast Cancer)|
 |[AUC-ROC-Sacramento-Housing](./AUC-ROC-Sacramento-Housing.ipynb)|AUC-ROC (Sacramento Housing)|
+|[SVM](./SVM.ipynb)|Support Vector Machines|
+|[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
