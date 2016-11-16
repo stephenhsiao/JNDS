@@ -59,6 +59,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[Tuning-Clusters](./Tuning-Clusters.ipynb)|Perform a K-Means Analysis and Evaluate the Clusters|
+|[PCA](./PCA.ipynb)|Principal Components Analysis (PCA)|
 
 ## Case Studies
 |Notebook|Description|
