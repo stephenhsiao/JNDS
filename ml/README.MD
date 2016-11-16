@@ -3,9 +3,11 @@ A collections of Jupyter Notebooks for Machine Learning
 
 ## Table of Contents
 
-* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [Supervised Learning](#Supervised-Learning)
-* [Unsupervised Learning](#Unsupervised-Learning)
+* [Supervised-Learning](#Supervised-Learning)
+* [Unsupervised-Learning](#Unsupervised-Learning)
+* [Model-Tuning](#Model-Tuning)
+* [Case-Studies](#Case-Studies)
+
 
 ## Supervised-Learning
 |Notebook|Description|
@@ -44,3 +46,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[NLP](./nlp.ipynb)|Nature Language Processing|
 
 ## Unsupervised-Learning
+
+## Model-Tuning
+
+## Case Studies
