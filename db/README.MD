@@ -10,3 +10,4 @@ A collections of Jupyter Notebooks for Database related work
 |[SQLite](./SQLite.ipynb)|SQLite|
 |[SQLite-Pred-Model](./SQLite-Pred-Model.ipynb)|Build a preditive Model Using data from SQLite (Demographic income)|
 |[ipython-SQL](./ipython-SQL.ipynb)|SQL inside Juypter notebook using Ipython-SQL extension.|
+|[PostgreSQL](./PostgreSQL.ipynb)|PostgreSQL|
