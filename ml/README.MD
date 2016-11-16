@@ -3,13 +3,13 @@ A collections of Jupyter Notebooks for Machine Learning
 
 ## Table of Contents
 
-* [Supervised-Learning](#Supervised-Learning)
-* [Unsupervised-Learning](#Unsupervised-Learning)
-* [Model-Tuning](#Model-Tuning)
-* [Case-Studies](#Case-Studies)
+* [Supervised-Learning](#supervised-learning)
+* [Unsupervised-Learning](#unsupervised-learning)
+* [Model-Tuning](#model-tuning)
+* [Case-Studies](#case-studies)
 
 
-## Supervised-Learning ##
+## Supervised-Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Linear-Reg-Statsmodels-ScikitLearn](./Linear-Reg-Statsmodels-ScikitLearn.ipynb) | Linear Regression with Statsmodels and Scikit-Learn |
@@ -24,7 +24,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Class-KNN-Breast-Cancer](./Class-KNN-Breast-Cancer.ipynb) | Classification KNN (Breast Cancer) |
 |[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) 
 
-## Unsupervised-Learning ##
+## Unsupervised-Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[K-Means](./K-Means.ipynb)|K-Means|
