@@ -29,6 +29,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[K-Means](./K-Means.ipynb)|K-Means|
+|[K-Means-Lab](./K-Means-Lab.ipynb)|K-Means Lab|
 
 ## Data-Pipeline
 |Notebook|Description|
@@ -57,6 +58,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[API](./API.ipynb)|Using APIs to retrieve and store data.|
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
+|[Tuning-Clusters](./Tuning-Clusters.ipynb)|Perform a K-Means Analysis and Evaluate the Clusters|
 
 ## Case Studies
 |Notebook|Description|
