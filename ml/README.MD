@@ -32,3 +32,4 @@ A collections of Jupyter Notebooks for Machine Learning
 |[AUC-ROC-Sacramento-Housing](./AUC-ROC-Sacramento-Housing.ipynb)|AUC-ROC (Sacramento Housing)|
 |[SVM](./SVM.ipynb)|Support Vector Machines|
 |[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
+|[API](./API.ipynb)|Using APIs to retrieve and store data.|
