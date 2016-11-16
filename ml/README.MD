@@ -21,6 +21,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Logistic-Reg-Scikit-Learn-EverGreenSite](./Logistic-Reg-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression using Scikit-Learn (Ever-Green Web Site)|
 |[Logistic-Reg-Regu-Scikit-Learn-EverGreenSite](./Logistic-Reg-Regu-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression and Regularization using Scikit-Learn (Ever-Green Web Site)|
 |[gridsearch-multinomial-logistic](./gridsearch-multinomial-logistic.ipynb)|Gridsearch Multinomial Logistic Regression (Crime Rate)|
+|[Class-KNN-Breast-Cancer](./Class-KNN-Breast-Cancer.ipynb) | Classification KNN (Breast Cancer) |
+|[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) 
 
 ## Unsupervised-Learning ##
 |Notebook|Description|
