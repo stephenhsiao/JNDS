@@ -24,3 +24,5 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Gradient-Descent](./Gradient-Descent.ipynb)|Gradient-Descent|
 |[Class-KNN-Breast-Cancer](./Class-KNN-Breast-Cancer.ipynb) | Classification KNN (Breast Cancer) |
 |[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) |
+|[AUC-ROC-Breast-Cancer](./AUC-ROC-Breast-Cancer.ipynb)|AUC-ROC (Breast Cancer)|
+|[AUC-ROC-Sacramento-Housing](./AUC-ROC-Sacramento-Housing.ipynb)|AUC-ROC (Sacramento Housing)|
