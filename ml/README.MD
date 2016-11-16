@@ -24,6 +24,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[gridsearch-multinomial-logistic](./gridsearch-multinomial-logistic.ipynb)|Gridsearch Multinomial Logistic Regression (Crime Rate)|
 |[Class-KNN-Breast-Cancer](./Class-KNN-Breast-Cancer.ipynb) | Classification KNN (Breast Cancer) |
 |[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) 
+|[SVM](./SVM.ipynb)|Support Vector Machines|
+|[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
 
 ## Unsupervised-Learning
 |Notebook|Description|
@@ -53,8 +55,6 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Gradient-Descent](./Gradient-Descent.ipynb)|Gradient-Descent|
 |[AUC-ROC-Breast-Cancer](./AUC-ROC-Breast-Cancer.ipynb)|AUC-ROC (Breast Cancer)|
 |[AUC-ROC-Sacramento-Housing](./AUC-ROC-Sacramento-Housing.ipynb)|AUC-ROC (Sacramento Housing)|
-|[SVM](./SVM.ipynb)|Support Vector Machines|
-|[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
 |[API](./API.ipynb)|Using APIs to retrieve and store data.|
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
