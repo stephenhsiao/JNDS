@@ -34,3 +34,4 @@ A collections of Jupyter Notebooks for Machine Learning
 |[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
 |[API](./API.ipynb)|Using APIs to retrieve and store data.|
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
+|[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
