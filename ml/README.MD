@@ -8,4 +8,5 @@ A collections of Jupyter Notebooks for Machine Learning
 | [Linear-Reg-Real-Estate](./Linear-Reg-Real-Estate.ipynb) | Linear Regression Practice (Real Estate) |
 | [Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
 | [Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
-| [Regularization](./Regularization.ipynb) | Regularization |
+| [Regularization](./Regularization.ipynb) | Regularization to avoid over-fitting |
+|[Train-Test-Split](./Train-Test-Split.ipynb)| Train-Test-Split to avoid over-fitting |
