@@ -6,6 +6,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |--------------|-----------------------------------|
 |[Data-Workflow](./Data-Workflow.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
 |[Data-Workflow2](./Data-Workflow2.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
+|[Data-Pipeline](./Data-Pipeline.ipynb)|Data Processing Pipeline (Titanic)|
 |[Linear-Reg-Statsmodels-ScikitLearn](./Linear-Reg-Statsmodels-ScikitLearn.ipynb) | Linear Regression with Statsmodels and Scikit-Learn |
 |[Linear-Reg-Real-Estate](./Linear-Reg-Real-Estate.ipynb) | Linear Regression Practice (Real Estate) |
 |[Linear-Reg-Salary](./Linear-Reg-Salary.ipynb) | Linear Regression Practice (Salary Prediction) |
