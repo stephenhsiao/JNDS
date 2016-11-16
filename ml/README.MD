@@ -13,6 +13,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Logistic-Reg-Statsmodels-EverGreenSites](./Logistic-Reg-Statsmodels-EverGreenSites.ipynb)|Logistic Regression using Statsmodels (Ever-Green Web Sites)|
 |[Logistic-Reg-Statsmodels-Wine](./Logistic-Reg-Statsmodels-Wine.ipynb)|Logistic Regression using Statsmodels (Wine)|
 |[Logistic-Reg-Scikit-Learn-EverGreenSite](./Logistic-Reg-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression using Scikit-Learn (Ever-Green Web Site)|
+|[Logistic-Reg-Regu-Scikit-Learn-EverGreenSite](./Logistic-Reg-Regu-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression and Regularization using Scikit-Learn (Ever-Green Web Site)|
 |[gridsearch-multinomial-logistic](./gridsearch-multinomial-logistic.ipynb)|Gridsearch Multinomial Logistic Regression (Crime Rate)|
 |[Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
 |[Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
