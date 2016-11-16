@@ -9,7 +9,7 @@ A collections of Jupyter Notebooks for Machine Learning
 * [Case-Studies](#Case-Studies)
 
 
-## Supervised-Learning
+# Supervised-Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Data-Workflow](./Data-Workflow.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
@@ -45,8 +45,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[NLP](./nlp.ipynb)|Nature Language Processing|
 
-## Unsupervised-Learning
+# Unsupervised-Learning
 
-## Model-Tuning
+# Model-Tuning
 
-## Case Studies
+# Case Studies
