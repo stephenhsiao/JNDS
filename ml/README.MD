@@ -9,4 +9,5 @@ A collections of Jupyter Notebooks for Machine Learning
 | [Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
 | [Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
 | [Regularization](./Regularization.ipynb) | Regularization to avoid over-fitting |
+| [Regularization2](./Regularization2.ipynb) | Another Regularization (salary) |
 |[Train-Test-Split](./Train-Test-Split.ipynb)| Train-Test-Split to avoid over-fitting |
