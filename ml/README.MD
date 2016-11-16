@@ -6,7 +6,7 @@ A collections of Jupyter Notebooks for Machine Learning
 * [Supervised-Learning](#supervised-learning)
 * [Unsupervised-Learning](#unsupervised-learning)
 * [Data-Pipeline](#data-pipeline)
-* [Model-Tuning](#model-tuning)
+* [Model-Analysis-And-Tuning](#model-analysis-and-tuning)
 * [Case-Studies](#case-studies)
 
 
@@ -42,7 +42,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Data-Pipeline-Log-Reg](./Data-Pipeline-Log-Reg.ipynb)|Logistic Regression using Processing Pipeline ()|
 |[Feature-Selection](./Feature-Selection.ipynb)|Feature Selection|
 
-## Model-Tuning
+## Model-Analysis-And-Tuning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Regression-Regularization](./Regression-Regularization.ipynb)| Regressions (Regression, Lasso Regression, and Ridge Regression) and Regularization (K-Folds)|
@@ -60,6 +60,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[Tuning-Clusters](./Tuning-Clusters.ipynb)|Perform a K-Means Analysis and Evaluate the Clusters|
 |[PCA](./PCA.ipynb)|Principal Components Analysis (PCA)|
+|[Dimensionality-Analysis](./Dimensionality-Analysis.ipynb)|Dimensionality Analysis|
+|[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
 
 ## Case Studies
 |Notebook|Description|
