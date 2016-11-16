@@ -46,7 +46,33 @@ A collections of Jupyter Notebooks for Machine Learning
 |[NLP](./nlp.ipynb)|Nature Language Processing|
 
 ## Unsupervised-Learning ##
+|Notebook|Description|
+|--------------|-----------------------------------|
+|[K-Means](./K-Means.ipynb)|K-Means|
 
-## Model-Tuning ##
+## Fine-Tuning ##
+|Notebook|Description|
+|--------------|-----------------------------------|
+|[Data-Workflow](./Data-Workflow.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
+|[Data-Workflow2](./Data-Workflow2.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
+|[Data-Pipeline](./Data-Pipeline.ipynb)|Data Processing Pipeline (Titanic)|
+|[Data-Pipeline-Log-Reg](./Data-Pipeline-Log-Reg.ipynb)|Logistic Regression using Processing Pipeline ()|
+|[Regression-Regularization](./Regression-Regularization.ipynb)| Regressions (Regression, Lasso Regression, and Ridge Regression) and Regularization (K-Folds)|
+|[Feature-Selection](./Feature-Selection.ipynb)|Feature Selection|
+|[Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
+|[Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
+|[Regularization](./Regularization.ipynb) | Regularization to avoid over-fitting |
+|[Regularization2](./Regularization2.ipynb) | Another Regularization (salary) |
+|[Train-Test-Split](./Train-Test-Split.ipynb)| Train-Test-Split to avoid over-fitting |
+|[Feature-Scaling](./Feature-Scaling.ipynb)| Feature Scaling |
+|[Gradient-Descent](./Gradient-Descent.ipynb)|Gradient-Descent|
+|[AUC-ROC-Breast-Cancer](./AUC-ROC-Breast-Cancer.ipynb)|AUC-ROC (Breast Cancer)|
+|[AUC-ROC-Sacramento-Housing](./AUC-ROC-Sacramento-Housing.ipynb)|AUC-ROC (Sacramento Housing)|
+|[SVM](./SVM.ipynb)|Support Vector Machines|
+|[SVM-lab](./SVM-lab.ipynb)|Support Vector Machines Practices|
+|[API](./API.ipynb)|Using APIs to retrieve and store data.|
+|[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
+|[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
+|[NLP](./nlp.ipynb)|Nature Language Processing|
 
 ## Case Studies ##
