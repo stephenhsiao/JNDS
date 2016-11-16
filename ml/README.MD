@@ -4,11 +4,10 @@ A collections of Jupyter Notebooks for Machine Learning
 ## Table of Contents
 
 * [kaggle-and-business-analyses](#kaggle-and-business-analyses)
-* [scikit-learn](#scikit-learn)
+* [Supervised Learning](#Supervised-Learning)
 * [Unsupervised Learning](#Unsupervised-Learning)
 
-
-### Talbe of Contents ###
+## Supervised-Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Data-Workflow](./Data-Workflow.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
@@ -44,4 +43,4 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[NLP](./nlp.ipynb)|Nature Language Processing|
 
-##Unsupervised-Learning
+## Unsupervised-Learning
