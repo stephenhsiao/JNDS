@@ -5,6 +5,7 @@ A collections of Jupyter Notebooks for Machine Learning
 
 * [Supervised-Learning](#supervised-learning)
 * [Unsupervised-Learning](#unsupervised-learning)
+* [Data-Pipeline](#data-pipeline)
 * [Model-Tuning](#model-tuning)
 * [Case-Studies](#case-studies)
 
@@ -29,15 +30,19 @@ A collections of Jupyter Notebooks for Machine Learning
 |--------------|-----------------------------------|
 |[K-Means](./K-Means.ipynb)|K-Means|
 
-## Fine-Tuning ##
+## Data-Pipeline
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Data-Workflow](./Data-Workflow.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
 |[Data-Workflow2](./Data-Workflow2.ipynb)| Work Flow for Data Science (Iowa_Liquor_Sales) |
 |[Data-Pipeline](./Data-Pipeline.ipynb)|Data Processing Pipeline (Titanic)|
 |[Data-Pipeline-Log-Reg](./Data-Pipeline-Log-Reg.ipynb)|Logistic Regression using Processing Pipeline ()|
-|[Regression-Regularization](./Regression-Regularization.ipynb)| Regressions (Regression, Lasso Regression, and Ridge Regression) and Regularization (K-Folds)|
 |[Feature-Selection](./Feature-Selection.ipynb)|Feature Selection|
+
+## Model-Tuning
+|Notebook|Description|
+|--------------|-----------------------------------|
+|[Regression-Regularization](./Regression-Regularization.ipynb)| Regressions (Regression, Lasso Regression, and Ridge Regression) and Regularization (K-Folds)|
 |[Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
 |[Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
 |[Regularization](./Regularization.ipynb) | Regularization to avoid over-fitting |
@@ -52,6 +57,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[API](./API.ipynb)|Using APIs to retrieve and store data.|
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
-|[NLP](./nlp.ipynb)|Nature Language Processing|
 
-## Case Studies ##
+## Case Studies
+|Notebook|Description|
+|--------------|-----------------------------------|
+|[NLP](./nlp.ipynb)|Nature Language Processing|
