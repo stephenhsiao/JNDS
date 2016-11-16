@@ -1,6 +1,13 @@
 # Machine Learning
 A collections of Jupyter Notebooks for Machine Learning
 
+## Table of Contents
+
+* [kaggle-and-business-analyses](#kaggle-and-business-analyses)
+* [scikit-learn](#scikit-learn)
+* [Unsupervised Learning](#Unsupervised-Learning)
+
+
 ### Talbe of Contents ###
 |Notebook|Description|
 |--------------|-----------------------------------|
@@ -36,3 +43,5 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Random-Forest](./Random-Forest.ipynb)|Random Forest and Boosting|
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[NLP](./nlp.ipynb)|Nature Language Processing|
+
+##Unsupervised-Learning
