@@ -15,6 +15,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Logistic-Reg-Scikit-Learn-EverGreenSite](./Logistic-Reg-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression using Scikit-Learn (Ever-Green Web Site)|
 |[Logistic-Reg-Regu-Scikit-Learn-EverGreenSite](./Logistic-Reg-Regu-Scikit-Learn-EverGreenSite.ipynb)|Logistic Regression and Regularization using Scikit-Learn (Ever-Green Web Site)|
 |[gridsearch-multinomial-logistic](./gridsearch-multinomial-logistic.ipynb)|Gridsearch Multinomial Logistic Regression (Crime Rate)|
+|[Regression-Regularization](./Regression-Regularization.ipynb)| Regressions (Regression, Lasso Regression, and Ridge Regression) and Regularization (K-Folds)|
 |[Bias-Variance](./Bias-Variance.ipynb) | Bias and variance of models |
 |[Model-Fit](./Model-Fit.ipynb) | Evaluate Model Fit |
 |[Regularization](./Regularization.ipynb) | Regularization to avoid over-fitting |
