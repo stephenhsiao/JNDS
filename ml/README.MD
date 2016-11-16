@@ -16,3 +16,5 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Train-Test-Split](./Train-Test-Split.ipynb)| Train-Test-Split to avoid over-fitting |
 |[Feature-Scaling](./Feature-Scaling.ipynb)| Feature Scaling |
 |[Gradient-Descent](./Gradient-Descent.ipynb)|Gradient-Descent|
+|[Class-KNN-Breast-Cancer](./Class-KNN-Breast-Cancer.ipynb) | Classification KNN (Breast Cancer) |
+|[Class-KNN-Wine](./Class-KNN-Wine.ipynb) | Classification KNN (Wine) |
