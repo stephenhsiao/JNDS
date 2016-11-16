@@ -8,3 +8,4 @@ A collections of Jupyter Notebooks for Database related work
 |[MongoDB Lab](./MongoDB Lab.ipynb)|MongoDB Practices|
 |[MongoDB Clue](./MongoDB Clue.ipynb)|MongoDB Practices (Clue)|
 |[SQLite](./SQLite.ipynb)|SQLite|
+|[SQLite-Pred-Model](./SQLite-Pred-Model.ipynb)|Build a preditive Model Using data from SQLite|
