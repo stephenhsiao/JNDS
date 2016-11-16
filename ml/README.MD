@@ -60,6 +60,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Model-Comparison](./Model-Comparison.ipynb)| Model Comparisons|
 |[Tuning-Clusters](./Tuning-Clusters.ipynb)|Perform a K-Means Analysis and Evaluate the Clusters|
 |[PCA](./PCA.ipynb)|Principal Components Analysis (PCA)|
+|[PCA-Lab](./PCA-Lab.ipynb)|Principal Components Analysis Exercises|
 |[Dimensionality-Analysis](./Dimensionality-Analysis.ipynb)|Dimensionality Analysis|
 |[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
 
