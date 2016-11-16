@@ -32,6 +32,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |--------------|-----------------------------------|
 |[K-Means](./K-Means.ipynb)|K-Means|
 |[K-Means-Lab](./K-Means-Lab.ipynb)|K-Means Lab|
+|[Hierarchical-Clustering](./Hierarchical-Clustering.ipynb)|Hierarchical Clustering|
 
 ## Data-Pipeline
 |Notebook|Description|
@@ -61,6 +62,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Tuning-Clusters](./Tuning-Clusters.ipynb)|Perform a K-Means Analysis and Evaluate the Clusters|
 |[PCA](./PCA.ipynb)|Principal Components Analysis (PCA)|
 |[PCA-Lab](./PCA-Lab.ipynb)|Principal Components Analysis Exercises|
+|[PCA-Lab2](./PCA-Lab2.ipynb)|Principal Components Analysis Exercises|
 |[Dimensionality-Analysis](./Dimensionality-Analysis.ipynb)|Dimensionality Analysis|
 |[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
 
