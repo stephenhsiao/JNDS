@@ -75,7 +75,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |Notebook|Description|
 |--------------|-----------------------------------|
 |[Bayes-Intro](./Bayes-Intro.ipynb)|Basic Bayesian Regression using PyStan|
-|[Bayesian-Analysis-Politics](./Bayesian-Analysis-Politics.ipynb)|Bayesian Analysis Case Study (Pre
+|[Bayesian-Analysis-Politics](./Bayesian-Analysis-Politics.ipynb)|Bayesian Analysis Case Study (Presidential Poll)|
 |[Bayesian-Linear-Reg](./Bayesian-Linear-Reg.ipynb)|Linear Regression with PyStan|
 |[Bayesian-Logistic-Reg](./Bayesian-Logistic-Reg.ipynb)|Logistic Regression with PyStan|
 |[Bayesian-Missing-Data](./Bayesian-Missing-Data.ipynb)|Bayesian Analysis focus on missing data|
