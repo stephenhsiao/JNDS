@@ -35,6 +35,8 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Hierarchical-Clustering](./Hierarchical-Clustering.ipynb)|Hierarchical Clustering|
 |[Hierarchical-Clustering-Lab](./Hierarchical-Clustering-Lab.ipynb)|Hierarchical Clustering Lab|
 |[Class-Clustering](./Class-Clustering.ipynb) | Use Extra Trees and KNN method to create a classifier |
+|[DBSCAN-Iris](./DBSCAN-Iris.ipynb)|Density-Based Spatial Clustering of Applications with Noise (DBSCAN) on Iris|
+|[DBSCAN-Airport-Operations](./DBSCAN-Airport-Operations.ipynb)|Density-Based Spatial Clustering of Applications with Noise (DBSCAN) on Airport-Operations|
 
 ## Data-Pipeline
 |Notebook|Description|
