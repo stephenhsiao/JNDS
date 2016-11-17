@@ -33,6 +33,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[K-Means](./K-Means.ipynb)|K-Means|
 |[K-Means-Lab](./K-Means-Lab.ipynb)|K-Means Lab|
 |[Hierarchical-Clustering](./Hierarchical-Clustering.ipynb)|Hierarchical Clustering|
+|[Hierarchical-Clustering-Lab](./Hierarchical-Clustering-Lab.ipynb)|Hierarchical Clustering Lab|
 |[Class-Clustering](./Class-Clustering.ipynb) | Use Extra Trees and KNN method to create a classifier |
 
 ## Data-Pipeline
