@@ -1,5 +1,5 @@
-# Matplotlib
-A collections of Jupyter Notebooks for matplotlib and Viaualizations
+# Visualization
+A collections of Jupyter Notebooks for Viaualizations
 
 ### Talbe of Contents ###
 |Notebook|Description|
