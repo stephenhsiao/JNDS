@@ -69,6 +69,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[PCA-Lab2](./PCA-Lab2.ipynb)|Principal Components Analysis Exercises|
 |[Dimensionality-Analysis](./Dimensionality-Analysis.ipynb)|Dimensionality Analysis|
 |[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
+|[Clustering-PCA](./Clustering-PCA.ipynb)|Clustering and PCA|
 
 ## Case Studies
 |Notebook|Description|
