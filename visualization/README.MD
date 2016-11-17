@@ -1,5 +1,5 @@
 # Visualization
-A collections of Jupyter Notebooks for Viaualizations
+A collections of Jupyter Notebooks for Viaualization and Plotting
 
 ### Talbe of Contents ###
 |Notebook|Description|
