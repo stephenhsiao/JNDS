@@ -72,6 +72,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Clustering-PCA](./Clustering-PCA.ipynb)|Clustering and PCA|
 |[LDA](./LDA.ipyn)|LDA (Linear Discriminant Analysis) using the Foursquare API|
 |[Bayesian-Statistical-Tests](./Bayesian-Statistical-Tests.ipynb)|Bayesian Statistical tests and regressions|
+|[Naive-Bayes](./Naive-Bayes.ipynb)|Various scikit-learn Naive Bayes methods|
 
 ## Bayesian-Analysis
 |Notebook|Description|
