@@ -7,8 +7,8 @@ A collections of Jupyter Notebooks for Machine Learning
 * [Unsupervised-Learning](#unsupervised-learning)
 * [Data-Pipeline](#data-pipeline)
 * [Model-Analysis-And-Tuning](#model-analysis-and-tuning)
+* [Bayesian-Analysis](#bayesian-analysis)
 * [Case-Studies](#case-studies)
-
 
 ## Supervised-Learning
 |Notebook|Description|
@@ -70,6 +70,16 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Dimensionality-Analysis](./Dimensionality-Analysis.ipynb)|Dimensionality Analysis|
 |[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
 |[Clustering-PCA](./Clustering-PCA.ipynb)|Clustering and PCA|
+
+## Bayesian-Analysis
+|Notebook|Description|
+|--------------|-----------------------------------|
+|[Bayes-Intro](./Bayes-Intro.ipynb)|Basic Bayesian Regression using PyStan|
+|[Bayesian-Analysis-Politics](./Bayesian-Analysis-Politics.ipynb)|Bayesian Analysis Case Study (Presidential Poll)|
+|[Bayesian-Linear-Reg](./Bayesian-Linear-Reg.ipynb)|Linear Regression with PyStan|
+|[Bayesian-Logistic-Reg](./Bayesian-Logistic-Reg.ipynb)|Logistic Regression with PyStan|
+|[Bayesian-Missing-Data](./Bayesian-Missing-Data.ipynb)|Bayesian Analysis focus on missing data|
+|[Bayesian-Analysis-PYMC](./Bayesian-Analysis-PYMC.ipynb)|Basic Bayesian regression using PyMC|
 
 ## Case Studies
 |Notebook|Description|
