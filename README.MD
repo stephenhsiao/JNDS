@@ -13,3 +13,4 @@ A collections of Jupyter Notebooks for Data Science.
 |[Scikit-Learn](./scikit-learn/README.MD)|Scikit-learn adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays.|
 |[DataBase](./db/README.MD)|Database Related Notebooks|
 |[Machine-Learning](./ml/README.MD)|Topcis around Machine Learning|
+|[Time-Series](./time-series/READ.MD)|All about Time Series Analysis|
