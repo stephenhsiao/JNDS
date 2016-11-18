@@ -71,7 +71,7 @@ A collections of Jupyter Notebooks for Machine Learning
 |[Dimensionality-Reduction](./Dimensionality-Reduction.ipynb)|Dimensionality Reduction|
 |[Clustering-PCA](./Clustering-PCA.ipynb)|Clustering and PCA|
 |[LDA](./LDA.ipyn)|LDA (Linear Discriminant Analysis) using the Foursquare API|
-\[Bayesian-Statistical-Tests](./Bayesian-Statistical-Tests.ipynb)|Bayesian Statistical tests and regressions|
+|[Bayesian-Statistical-Tests](./Bayesian-Statistical-Tests.ipynb)|Bayesian Statistical tests and regressions|
 
 ## Bayesian-Analysis
 |Notebook|Description|
