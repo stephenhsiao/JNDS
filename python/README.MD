@@ -12,5 +12,6 @@ A collections of Jupyter Notebooks for Basic Python Functionalities
 |[regex](./regex.ipynb)|Regular Expressions|
 |[regex-lab](./regex-lab.ipynb)|Regular Expressions Practices|
 |[Web-Scrap-Pokemon](./Web-Scrap-Pokemon.ipynb)|Web Scraping (Pokemon)|
+|[Web-Scrap-Redfin](./Web-Scrap-Redfin.ipynb)|Web Scraping (Redfin)|
 
 
